@@ -32,3 +32,19 @@ footer {
   background-size: 10px 10px;
   background-position: 0 0, 5px 5px;
 }
+
+table {
+  width: 90%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+  color:  rgb(34, 2, 35);
+}
+
+th {
+  background-color: #f06666;
+}
